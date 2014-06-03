@@ -1,4 +1,4 @@
 pbxprojparser
 =============
 
-xcode's .pbxproj parser.
+xcode's .pbxproj file parser.
